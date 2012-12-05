@@ -32,3 +32,5 @@ To start the server, run this command in the root of your project
 ```bash
 node server
 ```
+
+Happy Coding :D
