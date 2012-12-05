@@ -34,7 +34,3 @@ node server
 ```
 
 Happy Coding :D
-
-I might also include a cool Bash script blah blah blah
-
-BUAHAHAHA these are my changes again
